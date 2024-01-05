@@ -1,5 +1,9 @@
 import React from 'react';
+import { Metadata } from 'next';
 
+export const metadata: Metadata = {
+  title: 'Customers',
+};
 type Props = {};
 
 const Page = (props: Props) => {
