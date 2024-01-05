@@ -23,5 +23,7 @@ This project is based on a dashboard course found in the Next.js documentation a
 -Metadata: Adding metadata and preparing the application for social sharing.
 
 Demo: [Link to the demo](https://next-learn-two-theta.vercel.app/)
+Email: user@nextmail.com
+Password: 123456
 
 Learning documentation: [https://nextjs.org/learn](https://nextjs.org/learn)
